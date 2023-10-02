@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579419343103",
+    "project_id": "friends-date-app-new",
+    "storage_bucket": "friends-date-app-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579419343103:android:237da76590dec22deb24ca",
+        "android_client_info": {
+          "package_name": "com.example.new_friends_date_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579419343103-afi93f7iol300lei1uj2qbmlb400op1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZYECziY5TwYTlQmb_Uu8CdubtOXO-3Ho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579419343103-afi93f7iol300lei1uj2qbmlb400op1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -21,16 +21,10 @@ class HomeController extends GetxController with WidgetsBindingObserver {
     super.didChangeAppLifecycleState(state);
     switch (state) {
       case AppLifecycleState.inactive:
-
-        // changeStatus(0);
         break;
       case AppLifecycleState.resumed:
-
-        // changeStatus(1);
         break;
       case AppLifecycleState.paused:
-
-        // changeStatus(0);
         break;
       case AppLifecycleState.detached:
         log('detached');
